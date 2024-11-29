@@ -1,0 +1,25 @@
+undefined
+null
+(null)
+nil
+True
+False
+None
+-1
+-1/2
+NaN
+0xffffffff
+123456789012345678901234567890123456789
+,./;'[]\-=
+<>?:"{}|_+
+!@#$%^&*()`~
+'
+"
+1;DROP TABLE users
+1'; DROP TABLE users-- 1
+' OR 1=1 -- 1
+' OR '1'='1
+$USER
+/dev/null; touch /tmp/blns.fail ; echo
+$(touch /tmp/blns.fail)
+eval("puts 'hello world'")
